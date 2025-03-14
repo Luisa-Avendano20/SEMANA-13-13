@@ -60,7 +60,7 @@ def calcular_promedios_temperatura(datos_temperaturas):
     return promedios_por_ciudad  # Devuelve el diccionario con los promedios
 
 # ----------------------------------------------------------------------
-# Ejemplo de uso (puedes descomentar para probar)
+
 # ----------------------------------------------------------------------
 datos_temperaturas = {
     "Loja": [18, 20, 22, 21],
